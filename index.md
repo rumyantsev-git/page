@@ -22,6 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## [](#header-2)System for prototyping and site management - Система для прототипирования и управления приложениями
 > Include command line, and the real-time development environment - Содержит коммандную строку и среду разработки в реальном времени
+> <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/editor/" frameborder="0" allowfullscreen></iframe>
 > <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/" frameborder="0" allowfullscreen></iframe>
 > **[Ссылка](https://watchlogs.github.io)**
 <br><img style="max-width:560px;" src="https://cs540106.userapi.com/c637426/v637426534/4f9e8/spldUf9Dv4c.jpg"/>
