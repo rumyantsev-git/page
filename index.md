@@ -4,7 +4,7 @@ layout: default
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-**[Link to my biography]**(another-page).
+**[Link to my biography](another-page)**
 
 There should be whitespace between paragraphs.
 
