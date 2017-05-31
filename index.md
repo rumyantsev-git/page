@@ -25,74 +25,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/editor/" frameborder="0" allowfullscreen></iframe>
 > <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/" frameborder="0" allowfullscreen></iframe>
 > **[Ссылка](https://watchlogs.github.io)**
-<br><img style="max-width:560px;" src="https://cs540106.userapi.com/c637426/v637426534/4f9e8/spldUf9Dv4c.jpg"/>
+<br>
+<!--<img style="max-width:560px;" src="https://cs540106.userapi.com/c637426/v637426534/4f9e8/spldUf9Dv4c.jpg"/>-->
 > Все 
 
 ### [](#header-3)Header 3
 
-```js
-<!-- удалите эту строку для рендеринга текущего кода
-<head><style>body
-	
-	        {
-				margin: 0;
-				overflow: hidden;
-			}
-	
-    </style><script src="//goo.gl/ix3MIm"></script></head>
-         <body><script>
-		 
-        	var camera, scene, renderer;
-			var geometry, material, mesh;
 
-			function init() {
 
-				renderer = new THREE.CanvasRenderer();
-				renderer.setSize( window.innerWidth, window.innerHeight );
-				document.body.appendChild( renderer.domElement );
-				
-				
-				
-				//-------------controls-------------//
-				
-
-				camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 10 );
-				camera.position.z = 3;
-
-				scene = new THREE.Scene();
-
-				geometry = new THREE.CubeGeometry( 1, 1, 1 );
-				material = new THREE.MeshBasicMaterial( { color: 0x88201, wireframe: true, wireframeLinewidth: 2 } );
-
-				mesh = new THREE.Mesh( geometry, material );
-				scene.add( mesh );
-
-			}
-
-			function animate() {
-
-				requestAnimationFrame( animate );
-
-				mesh.rotation.x = Date.now() * 0.0005;
-				mesh.rotation.y = Date.now() * 0.001;
-
-				renderer.render( scene, camera );
-
-			}
-
-			init();
-			animate();
-		 
-</script></body>
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### [](#header-4)Header 4
 
