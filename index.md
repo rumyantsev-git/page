@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[мои проекты](another-page).
+[biography](another-page).
 
 There should be whitespace between paragraphs.
 
