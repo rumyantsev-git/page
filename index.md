@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## [](#header-2)Bot Assistant
 
-> This is a blockquote following a header.
+> The bot is capable of learning with the advanced funtions.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
