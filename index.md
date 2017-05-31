@@ -8,7 +8,7 @@ layout: default
 
 Education, work, and a little about myself - Образование работа и немного о себе
 
-# [](#header-1)My Projects - мои основные проекты
+# [](#header-1)My Projects - мои основные работы
 
 ----
 
@@ -29,8 +29,8 @@ Education, work, and a little about myself - Образование работа
 >
 
 # [](#header-1)Other - не основные
-*   Картография , геолокация.
-*   Игра.
+*   **[Игра](https://cepbep.github.io/game)**
+*  Картография , геолокация. 
 *   .
 
 
