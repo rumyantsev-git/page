@@ -18,7 +18,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 > The bot is capable of learning with the advanced funtions - Бот способный к обучению, с расширенным фунционалом
 > <iframe width="560" height="315" src="https://appvk.github.io" frameborder="0" allowfullscreen></iframe>
-> When something is important enough, you do it even if the odds are not in your favor.
+> Press keyboard arrow keys to change the visualization diagram - Cтрелки клавиатуры меняют схему визуализации
+
+## [](#header-2)System for prototyping and site management - Система для прототипирования и управления приложениями
+
+> The bot is capable of learning with the advanced funtions - Бот способный к обучению, с расширенным фунционалом
+> <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/" frameborder="0" allowfullscreen></iframe>
+> Press keyboard arrow keys to change the visualization diagram - Cтрелки клавиатуры меняют схему визуализации
 
 ### [](#header-3)Header 3
 
