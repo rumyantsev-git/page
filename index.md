@@ -14,9 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ----
 
-## [](#header-2)Bot Assistant
+## [](#header-2)Bot Assistant - Бот
 
-> The bot is capable of learning with the advanced funtions.
+> The bot is capable of learning with the advanced funtions. Бот способный к обучению с расширенным фунционалом
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
