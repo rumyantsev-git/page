@@ -4,6 +4,6 @@ layout: default
 
 ## Biography
 
-_yay_
+Incomplete higher education НИЯУ МИФИ
 
 [back](./)
