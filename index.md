@@ -21,7 +21,7 @@ Education, work, and a little about myself - Образование работа
 ## [](#header-2)System for prototyping and site management - Система для прототипирования и управления приложениями
 > Include command line, and the real-time development environment - Содержит коммандную строку и среду разработки в реальном времени
 > <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/editor/" frameborder="0" allowfullscreen></iframe>
-> <center>**[Ссылка](https://watchlogs.github.io)**</center>
+> **[Ссылка](https://watchlogs.github.io)**
 > <iframe width="560" height="315" src="https://logz.000webhostapp.com/admin/" frameborder="0" allowfullscreen></iframe>
 > 
 <br>
