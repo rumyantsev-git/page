@@ -30,7 +30,7 @@ Education, work, and a little about myself - Образование работа
 
 # [](#header-1)Other - не основные
 *   **[Игра](https://cepbep.github.io/game)**
-*  Картография , геолокация. 
+*  **[Картография , геолокация](https://cepbep.github.io/ruservis.github.io-master/dashboard/index.html)** 
 *   .
 
 
