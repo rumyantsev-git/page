@@ -31,8 +31,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### [](#header-3)Header 3
 
 ```js
-<!-- удалите эту строку для начала
--->
+<!-- удалите эту строку для рендеринга текущего кода
 <head><style>body
 	
 	        {
