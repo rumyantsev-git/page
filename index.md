@@ -30,10 +30,60 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### [](#header-3)Header 3
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+<!-- удалите эту строку для начала
+-->
+<head><style>body
+	
+	        {
+				margin: 0;
+				overflow: hidden;
+			}
+	
+    </style><script src="//goo.gl/ix3MIm"></script></head>
+         <body><script>
+		 
+        	var camera, scene, renderer;
+			var geometry, material, mesh;
+
+			function init() {
+
+				renderer = new THREE.CanvasRenderer();
+				renderer.setSize( window.innerWidth, window.innerHeight );
+				document.body.appendChild( renderer.domElement );
+				
+				
+				
+				//-------------controls-------------//
+				
+
+				camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 10 );
+				camera.position.z = 3;
+
+				scene = new THREE.Scene();
+
+				geometry = new THREE.CubeGeometry( 1, 1, 1 );
+				material = new THREE.MeshBasicMaterial( { color: 0x88201, wireframe: true, wireframeLinewidth: 2 } );
+
+				mesh = new THREE.Mesh( geometry, material );
+				scene.add( mesh );
+
+			}
+
+			function animate() {
+
+				requestAnimationFrame( animate );
+
+				mesh.rotation.x = Date.now() * 0.0005;
+				mesh.rotation.y = Date.now() * 0.001;
+
+				renderer.render( scene, camera );
+
+			}
+
+			init();
+			animate();
+		 
+</script></body>
 }
 ```
 
