@@ -6,9 +6,7 @@ layout: default
 
 **[Link to my biography - биография](another-page)**
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Education, work, and a little about myself - Образование работа и немного о себе
 
 # [](#header-1)My Projects - мои основные проекты
 
